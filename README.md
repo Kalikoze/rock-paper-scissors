@@ -15,10 +15,9 @@ To clone this repository and run the `app.py` file, follow these steps:
   ```
   git clone https://github.com/Kalikoze/rock-paper-scissors
   ```
-  Replace `your-username` with your GitHub username.
 4. Once the cloning is complete, navigate to the `rock-paper-scissors` directory:
   ```
-  cd pd-growth/rock-paper-scissors
+  cd rock-paper-scissors
   ```
 5. Run the `app.py` file using the following command:
   ```
